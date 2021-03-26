@@ -1,5 +1,5 @@
 <p  align="center">
-<img  src=""  alt="discover"  />
+<img  src="https://github.com/felipesantos10/Discover/blob/main/image/trilha-discover.png"  alt="discover"  />
 </p>
 <p  align="center">
 <a  href="https://www.linkedin.com/in/luis-felipe-santos-silva-5623a8197/">
