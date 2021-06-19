@@ -9,7 +9,7 @@ Comentarios
 * Ajuda outros a entenderem
 * NUnca esqueca de fechar um comentario aberto
 
-comentarios começam com '/*' e terminam  com '*/'
+comentarios começam com '/* ' e terminam  com '*/'
 </p>
 
 <h2>Exemplo</h2>
